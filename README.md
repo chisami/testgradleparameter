@@ -1,0 +1,2 @@
+# testgradleparameter
+test gradle parmeter 
